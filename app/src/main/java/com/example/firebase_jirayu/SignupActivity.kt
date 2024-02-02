@@ -4,7 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
-import com.example.firebase_jirayu.databinding.ActivitySignupBinding
+import com.example.firebase_kanyakorn.databinding.ActivitySignupBinding
 import com.google.firebase.auth.FirebaseAuth
 
 class SignupActivity : AppCompatActivity() {
