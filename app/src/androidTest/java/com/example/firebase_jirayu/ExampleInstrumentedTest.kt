@@ -1,4 +1,4 @@
-package com.example.firebase_jirayu
+package com.example.firebase_kanyakorn
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
