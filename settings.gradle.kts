@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "firebase_jirayu"
+rootProject.name = "firebase_kanyakorn"
 include(":app")
  
