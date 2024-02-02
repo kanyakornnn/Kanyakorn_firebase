@@ -1,4 +1,4 @@
-package com.example.firebase_jirayu
+package com.example.firebase_kanyakorn
 
 import org.junit.Test
 
