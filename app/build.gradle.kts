@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.firebase_jirayu"
+    namespace = "com.example.firebase_kanyakorn"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.firebase_jirayu"
+        applicationId = "com.example.firebase_kanyakorn"
         minSdk = 30
         targetSdk = 34
         versionCode = 1
