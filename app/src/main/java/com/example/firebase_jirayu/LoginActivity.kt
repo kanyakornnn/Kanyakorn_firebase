@@ -1,4 +1,4 @@
-package com.example.firebase_jirayu
+package com.example.firebase_kanyakorn
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
